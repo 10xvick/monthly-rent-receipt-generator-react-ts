@@ -1,6 +1,6 @@
 import * as React from 'react';
 import * as htmlToImage from 'html-to-image';
-import './style.css';
+import "./App.css";
 
 const formfields = [
   'name',
